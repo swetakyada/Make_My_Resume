@@ -17,7 +17,7 @@ const pdfTemplate = ({ name, email, phone, linkedin, github, skills, exp1_org, e
 
             <style>
               html{
-                  zoom: 0.55;
+                  zoom: 0.99;
               }    
               .rule{
                 border-bottom: 1px solid black;

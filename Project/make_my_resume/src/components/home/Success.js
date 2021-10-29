@@ -10,7 +10,7 @@ export default class Success extends Component {
             <h2>Hang Tight while your Resume Downloads!</h2>
             <br/>
         </div>  
-        <button className="btn btn-dark fontsize">Log Out</button>
+        <button className="btn btn-dark fontsize"><a href="/">Log Out</a></button>
       </div>
     )
   }
